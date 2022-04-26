@@ -1,2 +1,3 @@
 # QR-code-project
-<a hrel=" https://symans.github.io/QR-code-project/">QR Code Project</a>
+<a href=" https://symans.github.io/QR-code-project/">QR Code Project</a>
+<a href="http://"></a>
